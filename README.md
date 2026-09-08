@@ -6,19 +6,13 @@
   <h1>👋Hello, I Lebid Oleh</h1>
   <h3>Full Stack Developer</h3>
   
- [![Email](https://img.shields.io/badge/Email-sibyamara95%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:oleg2703@gmail.com)
+ [![Email](https://img.shields.io/badge/Email-oleg2703lebid@gmail.com-blue?style=flat-square&logo=gmail)](mailto:oleg2703lebid@gmail.com)
   [![GitHub followers](https://img.shields.io/github/followers/oleg2703?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/oleg2703)
   ![Profile Views](https://komarev.com/ghpvc/?username=oleg2703&style=flat-square&color=0891b2)
 </div>
 
 <!-- GitHub Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oleg2703/oleg2703/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oleg2703/oleg2703/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oleg2703/oleg2703/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+
 
 <!-- Technologies -->
 <div align="center">
@@ -60,10 +54,10 @@
   <h2>📊 Statistiques GitHub</h2>
   
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=oleg2703&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oleg2703&show_icons=true&theme=tokyonight&hide_border=true&locale=uk" alt="GitHub Stats" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleg2703&layout=compact&theme=tokyonight&hide_border=true&locale=fr" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleg2703&layout=compact&theme=tokyonight&hide_border=true&locale=uk" alt="Top Languages" />
   
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oleg2703&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
