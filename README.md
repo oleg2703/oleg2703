@@ -1,7 +1,5 @@
 <!-- Header -->
-<div align="center">
-  <img src="" alt="oleg2703 banner" width="100%">
-</div>
+
 
 <!-- Introduction -->
 <div align="center">
@@ -10,8 +8,7 @@
   
  [![Email](https://img.shields.io/badge/Email-sibyamara95%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:oleg2703@gmail.com)
   [![GitHub followers](https://img.shields.io/github/followers/oleg2703?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/oleg2703)
-   [![Portfolio]()]()
-  ![Profile Views](https://komarev.com/ghpvc/?username=sibylassana95&style=flat-square&color=0891b2)
+  ![Profile Views](https://komarev.com/ghpvc/?username=oleg2703&style=flat-square&color=0891b2)
 </div>
 
 <!-- GitHub Snake -->
@@ -28,7 +25,7 @@
   <h2>💻 Stack Technique</h2>
   
   #### Languages & Frameworks
-  <img src="https://skillicons.dev/icons?i=py,django,ts,js,angular,java,spring" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next," alt="Languages & Frameworks" />
   
   #### Frontend & Design
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma" alt="Frontend & Design" />
@@ -37,7 +34,6 @@
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   </p>
   
   #### Outils & Plateformes
@@ -45,11 +41,7 @@
 </div>
 
 <!-- Projects Section -->
-<div align="center">
-  <h2>🚀 Projets </h2>
-  
-  
-</div>
+
 
 <!-- Social Media -->
 <div align="center">
@@ -57,18 +49,11 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-lebid-dev2703/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleg2703)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oleg2703alegras)
+
  
 </div>
 <!-- Contributions -->
-<div align="center">
-  <h2>🤝 </h2>
-  
-  🔍 
-  🐛 
-  💡 
-  🌟 
-</div>
+
 
 <!-- GitHub Stats -->
 <div align="center">
