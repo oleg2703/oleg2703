@@ -1,5 +1,3 @@
-<!-- Header -->
-
 
 <!-- Introduction -->
 <div align="center">
@@ -11,59 +9,4 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=oleg2703&style=flat-square&color=0891b2)
 </div>
 
-<!-- GitHub Snake -->
 
-
-<!-- Technologies -->
-<div align="center">
-  <h2>💻 Stack Technique</h2>
-  
-  #### Languages & Frameworks
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next," alt="Languages & Frameworks" />
-  
-  #### Frontend & Design
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma" alt="Frontend & Design" />
-  
-  #### Databases
-  <p>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  </p>
-  
-  #### Outils & Plateformes
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,ubuntu" alt="Tools & Platforms" />
-</div>
-
-<!-- Projects Section -->
-
-
-<!-- Social Media -->
-<div align="center">
-  <h2>🌐 Media</h2>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-lebid-dev2703/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleg2703)
-
- 
-</div>
-<!-- Contributions -->
-
-
-<!-- GitHub Stats -->
-<div align="center">
-  <h2>📊 Statistiques GitHub</h2>
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=oleg2703&show_icons=true&theme=tokyonight&hide_border=true&locale=uk" alt="GitHub Stats" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleg2703&layout=compact&theme=tokyonight&hide_border=true&locale=uk" alt="Top Languages" />
-  
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oleg2703&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <p>🤝 </p>
-</div>
